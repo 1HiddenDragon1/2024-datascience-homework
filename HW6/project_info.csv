@@ -1,4 +1,4 @@
-name,language,watches,stars,forks,issues,pull requests,commits,contributors,folders
+name,language,watches,stars,forks,issues,pull_requests,commits,contributors,folders
 freeCodeCamp,"['JavaScript', 'CSS', 'HTML']",8400,309000,23700,163.0,89,25355,3999,9
 996.ICU,"['Rust', 'Go', 'Python', 'Makefile']",4500,249000,21200,,25,3019,605,8
 vue,"['JavaScript', 'Other']",6000,157000,23600,291.0,152,3085,289,11
